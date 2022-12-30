@@ -1,4 +1,4 @@
-# recommend-system
+# recommender-system
 study recommend-system
 
 
