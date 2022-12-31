@@ -11,7 +11,7 @@ Recommender systems are information filtering systems that deal with the problem
 
 ## technique
 <p align="center">
-  <img width="600" src="/images/rs_techniques.png" "Example of techniques.">
+  <img width="600" src="/images/readme_rs_technique.png" "Example of techniques.">
 </p>
 
 ----
