@@ -1,12 +1,18 @@
 # awsome recommender system
-A curated content of awesome recommender system resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) and [`awesome anomaly detection`](https://github.com/hoya012/awesome-anomaly-detection).
+*Last updated : 2022/12/31*
 
-*Last updated : 2022/12/31
+A curated content of awesome recommender system resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) and [`awesome anomaly detection`](https://github.com/hoya012/awesome-anomaly-detection).   
+
+
+
 
 ## What is recommender system?
+Recommender systems are information filtering systems that deal with the problem of information overload [1] by filter-ing vital information fragment out of large amount of dynami-cally generated information according to user’s preferences, interest, or observed behavior about item. [`link`](https://www.sciencedirect.com/science/article/pii/S1110866515000341)
 
-
-
+## technique
+<p align="center">
+  <img width="600" src="/images/rs_techniques.png" "Example of techniques.">
+</p>
 
 ----
 ## Business Process
