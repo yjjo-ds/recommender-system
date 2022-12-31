@@ -1,20 +1,21 @@
-# recommender-system
-study recommend-system
+# awsome recommender system
+A curated content of awesome recommender system resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) and [`awesome anomaly detection`](https://github.com/hoya012/awesome-anomaly-detection).
+
+*Last updated : 2022/12/31
+
+## What is recommender system?
 
 
 
 
-
-
-
-
-
-### 필요한 데이터셋
+----
+## Business Process
+#### 필요한 데이터셋
 - 행동 데이터(상품 클릭, 구매 등)
 - 유저의 과거 행동이력 데이터(클릭, 과거 특정 기간동안의 상품 상세 페이지 확인 이력, 구매 이력 등)
 - 굉장히 개인적인 추천이 가능하나 대규모 이력 데이터가 필요하여 고도화된 추천을 위해서는 시간이 걸리는 편
 
-### 추천 유형
+#### 추천 유형
 - 협업 필터링 (collaborative filtering) : 구매 및 소비한 제품에 대한 소비자의 평가 패턴이 비슷한 집단 속에서 서로 접하지 않은 제품을 추천하는 기술
 - 내용 기반 필터링 (content-based filtering) : 
 - 지식 기반 필터링 (knowledge-based filtering)
@@ -24,11 +25,5 @@ study recommend-system
 - 사물기반 추천(상품 속성 랭킹 유형, 연관 상품 유형, 상품 선호 유형, 상품 니즈 유형)
 - 사람 기반(유사 행동 유형, 협업 필터링, 설문 기반 유형)
 
+#### 추천시스템 구축 이슈
 
-# 1. 추천 시스템 소개
-## 사용자의 과거 행동 데이터를 바탕으로 사용자에게 필요한 정보나 제품을 제시하는 시스템
-
-# 2. 
-
-# 7. 하이브리드 추천 시스템
-# 9. 추천 시스템 구축에서의 이슈
