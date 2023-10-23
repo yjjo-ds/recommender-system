@@ -5,7 +5,6 @@ A curated content of awesome recommender system resources. Inspired by [`awesome
 
 
 
-
 ## What is recommender system?
 Recommender systems are information filtering systems that deal with the problem of information overload [1] by filter-ing vital information fragment out of large amount of dynami-cally generated information according to user’s preferences, interest, or observed behavior about item. [`link`](https://www.sciencedirect.com/science/article/pii/S1110866515000341)
 
@@ -32,4 +31,16 @@ Recommender systems are information filtering systems that deal with the problem
 - 사람 기반(유사 행동 유형, 협업 필터링, 설문 기반 유형)
 
 #### 추천시스템 구축 이슈
+
+
+----
+## Paper List
+
+### session-based paper
+- SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS | [`[pdf]`](https://arxiv.org/pdf/1511.06939.pdf)
+
+
+
+## Reference Blogs
+- https://github.com/SeongBeomLEE/RecsysTutorial/tree/main
 
