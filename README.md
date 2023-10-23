@@ -39,8 +39,12 @@ Recommender systems are information filtering systems that deal with the problem
 ### session-based paper
 - SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS | [`[pdf]`](https://arxiv.org/pdf/1511.06939.pdf)
 
-
+### graph-based paper
+- 
 
 ## Reference Blogs
-- https://github.com/SeongBeomLEE/RecsysTutorial/tree/main
-
+- (각 모델별 폴더로 정리해두었는데 깔끔하다) https://github.com/SeongBeomLEE/RecsysTutorial/tree/main
+- (논문정리) https://recbole.io/model_list.html
+- https://wikidocs.net/177952
+- (metric) https://zzaebok.github.io/recommender_system/metrics/rec_metrics/
+- (bert4rec) https://github.com/jaywonchung/BERT4Rec-VAE-Pytorch/
